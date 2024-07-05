@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanish Garg</h1>
-<p align="left"> <a href="[https://twitter.com](https://x.com/)/tanishgarg03" target="blank"><img src="https://img.shields.io/twitter/follow/tanishgarg03?logo=twitter&style=for-the-badge" alt="tanishgarg03" /></a> </p>
+<p align="left"> <a href="https://x.com/tanishgarg03" target="blank"><img src="https://img.shields.io/twitter/follow/tanishgarg03?logo=twitter&style=for-the-badge" alt="tanishgarg03" /></a> </p>
 
 - 📫 How to reach me **tanishgarg596@gmail.com** 
 
