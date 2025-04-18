@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanish Garg</h1>
 <h3 align="center">A passionate Web-developer from India.</h3>
 <p align="left">
-<a href="https://instagram.com/tanishgarg03" target="blank"><img src="https://img.shields.io/twitter/follow/tanishgarg03?logo=instagram" alt="tanishgarg03" /></a>
+<a href="https://instagram.com/tanishgarg03" target="_blank"><img src="https://img.shields.io/twitter/follow/tanishgarg03?logo=instagram" alt="tanishgarg03" /></a>
 </p>
 
 - 🌱 I’m currently learning **Node.js**
